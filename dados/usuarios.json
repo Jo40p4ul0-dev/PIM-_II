@@ -4,35 +4,5 @@
         "usuario": "coord",
         "senha": "$2b$12$qZJOWFKaXfrBNT7aDEka9.pKdLmsUt5YSMuZNjdfd.ayyQOczYVd2",
         "perfil": "Coordenador"
-    },
-    {
-        "nome": "RAFA MENDES ",
-        "usuario": "rafa",
-        "senha": "$2b$12$eeeb1oPLKPDC4alz./d8ceOKNyUixqQomMpok0CD/FC/ZChVAUx3S",
-        "perfil": "Professor"
-    },
-    {
-        "nome": "PEDRO SOARES",
-        "usuario": "pedro",
-        "senha": "$2b$12$7qz2YUSgqI.hIz/bT.s1D.BT1UOc3oBt.YYw.TlksCP6ctB2o6IsS",
-        "perfil": "Aluno"
-    },
-    {
-        "nome": "JONAS MENDES",
-        "usuario": "jonas",
-        "senha": "$2b$12$yIwtXj4GfayfIZRfRn9/3..9w3laWjCbI1gX56LrX5Z20dr/fyobe",
-        "perfil": "Aluno"
-    },
-    {
-        "nome": "JOSE ALDO",
-        "usuario": "josealdo@gmail.com",
-        "senha": "$2b$12$jINMelikMkr/YCcRcoO7aei0Zde5FArXY5PE2uGR.FrdAl0vb0TOy",
-        "perfil": "Aluno"
-    },
-    {
-        "nome": "Aldriano Da Lima Cunha",
-        "usuario": "Aldriano",
-        "senha": "$2b$12$AuxuZXhyO8N.kPcYowyozO.ENdv4YratBLXoTpGiN01.UAxyY5zfe",
-        "perfil": "Professor"
     }
 ]
