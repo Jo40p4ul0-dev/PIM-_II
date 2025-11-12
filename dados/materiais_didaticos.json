@@ -1,0 +1,10 @@
+[
+    {
+        "disciplina": "Algoritmos em Python",
+        "conteudo": "**Aula 1: Listas e Dicionários em Python**\n\n**Listas** são coleções ordenadas e mutáveis de itens. Pense nelas como um armário com prateleiras numeradas.\n- Criação: `minha_lista = [1, 'Python', 3.14]`\n- Adicionar item no final: `minha_lista.append('novo')`\n- Acessar item pelo índice: `print(minha_lista[0])` (acessa o primeiro item)\n\n**Dicionários** são coleções de pares 'chave: valor'. São como uma agenda, onde você busca por um nome (chave) para encontrar uma informação (valor).\n- Criação: `meu_dicionario = {'nome': 'Júlio', 'curso': 'ADS'}`\n- Acessar valor pela chave: `print(meu_dicionario['nome'])`\n- Adicionar/Modificar par: `meu_dicionario['idade'] = 34`\n\nUse listas para sequências de itens e dicionários para associar informações."
+    },
+    {
+        "disciplina": "Engenharia de Software",
+        "conteudo": "**Aula 1: Metodologias Ágeis (Scrum)**\n\n**Scrum** é um framework para gerenciar projetos complexos, baseado em ciclos curtos de trabalho chamados **Sprints** (geralmente de 2 a 4 semanas).\n\n**Pilares do Scrum:**\n1. **Transparência:** Todos têm visibilidade do progresso.\n2. **Inspeção:** O trabalho é verificado frequentemente.\n3. **Adaptação:** O plano é ajustado conforme necessário.\n\n**Papéis Principais:**\n- **Product Owner (PO):** Define o que será construído.\n- **Scrum Master:** Garante que o time siga o processo e remove impedimentos.\n- **Time de Desenvolvimento:** Constrói o produto.\n\nO objetivo é entregar valor de forma rápida e contínua."
+    }
+]
